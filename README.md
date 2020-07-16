@@ -16,7 +16,7 @@ print('고양이는 너무 귀여워요!!!')
 ```
 ### Example
 
-![37d598e5a04344da81c76621ba273915](https://user-images.githubusercontent.com/65877745/87668041-64ed6700-c7a6-11ea-911d-2187c309f949.jp
+https://mblogthumb-phinf.pstatic.net/20120914_83/park_kong__1347619489832FUAz9_PNG/blogfiles11.naver.net.png?type=w2
 
 ### Reference
 [크집사](https://www.youtube.com/watch?v=I-3bfP9Jt0g)
